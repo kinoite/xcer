@@ -1,6 +1,6 @@
 # Xcer Package Manager
 
-*A simple, educational package manager built from scratch in Python.*
+*A simple, package manager built from scratch in Python.*
 
 > [!WARNING]
 > Xcer is currently in an **alpha stage** of development. It is a proof-of-concept project created for learning and demonstration purposes. Please **do not use it on a production system.**
