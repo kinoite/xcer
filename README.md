@@ -5,7 +5,7 @@
 > [!WARNING]
 > Xcer is currently in an **alpha stage** of development.
 
-Xcer is a complete package manager ecosystem that demonstrates the core principles of software distribution on Linux. It includes a command-line client (`xcli`), a package build tool (`xcbuild.py`), and a simple repository server.
+Xcer is a complete package manager ecosystem for Neutronized Linux that is meant to replace the deprecated hoshipkg. It includes a command-line client (`xcli`), a package build tool (`xcbuild`), and a simple repository.
 
 ## Features
 
