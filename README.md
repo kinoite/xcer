@@ -38,7 +38,7 @@ The recommended way to install `xcli` is by building a self-contained binary usi
 
 1.  **Clone the Repository:**
     ```bash
-    git clone [https://github.com/your-username/xcer.git](https://github.com/your-username/xcer.git)
+    git clone https://github.com/kinoite/xcer.git
     cd xcer
     ```
     *(Note: Ensure your main script file is named `xcli.py` for the next step).*
