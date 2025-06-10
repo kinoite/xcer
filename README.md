@@ -95,12 +95,12 @@ Once installed, you can use `xcli` like any other package manager. Commands that
     sudo xcli del openbox
     ```
 
-#### Packaging with `xcbuild.py` (For Packagers)
+#### Packaging with `xcbuild` (For Packagers)
 
 1.  **Prepare Source:** Arrange the program's files in the `source_packages/` directory.
 2.  **Build the Package:** Run `xcbuild.py` with the appropriate flags.
     ```bash
-    python3 xcbuild.py openbox --version=3.6.1-12 --depends=imlib2
+    xcbuild openbox --version=3.6.1-12 --depends=imlib2
     ```
 
 ## License
