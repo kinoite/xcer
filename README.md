@@ -3,7 +3,7 @@
 *A simple, package manager built from scratch in Python.*
 
 > [!WARNING]
-> Xcer is currently in an **alpha stage** of development. It is a proof-of-concept project created for learning and demonstration purposes. Please **do not use it on a production system.**
+> Xcer is currently in an **alpha stage** of development.
 
 Xcer is a complete package manager ecosystem that demonstrates the core principles of software distribution on Linux. It includes a command-line client (`xcli`), a package build tool (`xcbuild.py`), and a simple repository server.
 
