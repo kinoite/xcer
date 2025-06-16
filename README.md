@@ -5,7 +5,7 @@
 > [!WARNING]
 > Xcer is currently in an **alpha stage** of development.
 
-Xcer is a complete package manager ecosystem for Neutronized Linux that is meant to replace the deprecated hoshipkg. It includes a command-line client (`xcli`), a package build tool (`xcbuild`), and a simple repository.
+Xcer is a complete package manager ecosystem for Xeronic Linux that is meant to replace the deprecated hoshipkg. It includes a command-line client (`xcli`), a package build tool (`xcbuild`), and a simple repository.
 
 ## Features
 
